@@ -78,3 +78,21 @@ When an employee turns on an office computer, Windows starts first. It allows th
 
 ## Reflection
 Today I learned the basics of the Windows operating system and why it is widely used in businesses and IT support environments.
+# Day 4 - File Management
+
+## What I Learned
+- File Explorer is used to manage files and folders.
+- A file stores data, while a folder organizes files.
+- The Recycle Bin stores deleted files temporarily.
+- Storage devices include SSD, HDD, and USB drives.
+- Windows Search helps users quickly find files and folders.
+
+## Real-Life Scenario
+An employee accidentally deletes an important company document. The IT Support team restores it from the Recycle Bin and uses Windows Search to locate related files.
+
+## Practical Learning
+- Learned how to create, rename, copy, move, delete, restore, and search for files.
+- Completed Cisco Skills for All Module 1: Introduction to Cybersecurity.
+
+## Reflection
+Today I learned how Windows manages files and folders. These skills are important because IT Support and Cybersecurity professionals work with files every day while troubleshooting, recovering data, and protecting information.
