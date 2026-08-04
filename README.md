@@ -96,3 +96,27 @@ An employee accidentally deletes an important company document. The IT Support t
 
 ## Reflection
 Today I learned how Windows manages files and folders. These skills are important because IT Support and Cybersecurity professionals work with files every day while troubleshooting, recovering data, and protecting information.
+# Day 5 - User Accounts and Authentication
+
+## What I Learned
+
+- A user account is a digital identity on a computer.
+- Passwords protect user accounts from unauthorized access.
+- Authentication verifies a user's identity.
+- Multi-Factor Authentication (MFA) uses two or more verification methods.
+- Permissions control what users can access and modify.
+
+## Real-Life Scenario
+
+A company employee logs in using a username and password. They also enter a code sent to their phone. This MFA process prevents attackers from accessing the account even if they know the password.
+
+## Practical Learning
+
+- Learned about user accounts, passwords, authentication, MFA, and permissions.
+- Completed Cisco Skills for All:
+  - 2.1 Analyzing a Cyber Attack
+  - 2.2 Methods of Infiltration
+
+## Reflection
+
+Today I learned how companies protect user accounts using passwords, authentication, and permissions. These concepts are the foundation of cybersecurity.
