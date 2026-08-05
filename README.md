@@ -120,3 +120,25 @@ A company employee logs in using a username and password. They also enter a code
 ## Reflection
 
 Today I learned how companies protect user accounts using passwords, authentication, and permissions. These concepts are the foundation of cybersecurity.
+# Day 6 - Networking Fundamentals
+
+## What I Learned
+
+- A network connects two or more devices to share data and resources.
+- LAN (Local Area Network) connects devices in a small area such as a home, school, or office.
+- WAN (Wide Area Network) connects networks across large distances, such as cities or countries.
+- The Internet is the world's largest WAN.
+- Networking is the foundation of cybersecurity because computers communicate through networks.
+
+## Real-Life Scenario
+
+An office has many computers connected through a LAN. Employees share files, printers, and internet access. The office network connects to the Internet through a WAN.
+
+## Practical Learning
+
+- Learned the basics of networking, LAN, and WAN.
+- Completed Cisco Skills for All Module 2.3 – Security Vulnerabilities and Exploits.
+
+## Reflection
+
+Today I learned how computers communicate through networks. Understanding networking is essential because cybersecurity professionals protect these connections from attacks.
