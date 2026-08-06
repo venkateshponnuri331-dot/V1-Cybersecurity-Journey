@@ -142,3 +142,24 @@ An office has many computers connected through a LAN. Employees share files, pri
 ## Reflection
 
 Today I learned how computers communicate through networks. Understanding networking is essential because cybersecurity professionals protect these connections from attacks.
+# Day 7 - Networking Basics
+
+## What I Learned
+
+- IP (Internet Protocol) gives devices an address for communication.
+- DNS (Domain Name System) converts domain names into IP addresses.
+- Public IP is used on the Internet.
+- Private IP is used inside homes and organizations.
+- The Internet uses IP addresses to send data between devices.
+
+## Real-Life Scenario
+
+When I type www.instagram.com, DNS finds its IP address. My device then uses IP to communicate with Instagram's server.
+
+## Cisco Skills for All
+
+Completed Module 3.1 - Protecting Your Devices and Network.
+
+## Reflection
+
+Today I learned how devices communicate on the Internet and why DNS and IP are essential for networking.
