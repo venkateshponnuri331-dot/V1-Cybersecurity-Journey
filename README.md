@@ -163,70 +163,40 @@ Completed Module 3.1 - Protecting Your Devices and Network.
 ## Reflection
 
 Today I learned how devices communicate on the Internet and why DNS and IP are essential for networking.
-# V1 Cybersecurity Bootcamp – Day 8
+Create GitHub notes for my V1 Cybersecurity Bootcamp.
 
-## Topic 1: Data Maintenance
+Day: 8
 
-### What is Data Maintenance?
-Data maintenance is the process of keeping data accurate, secure, organized, updated, and recoverable throughout its lifecycle.
+Title:
+# Day 8 – Data Maintenance, Data Backup and Data Recovery
 
-### Why is it important?
-- Prevents data loss.
-- Keeps business running.
-- Improves security.
-- Protects important information.
+Follow this exact structure.
 
-Example:
-A bank maintains customer records to prevent data corruption and financial loss.
+## What I Learned
+Write 5–10 concise bullet points about:
+- Data Maintenance
+- Data Backup
+- Types of Backup (Full, Incremental, Differential)
+- 3-2-1 Backup Rule
+- Data Recovery
+- Difference between Backup and Recovery
+- Recovery Process (Assess, Contain, Restore, Strengthen)
 
----
+## Real-Life Scenario
+Write ONE practical cybersecurity scenario showing how Data Maintenance, Backup, and Recovery protect an organization from data loss or a cyberattack.
 
-## Topic 2: Data Backup
+## Cisco Skills for All
+Write:
+Completed Module 3.2 – Data Maintenance.
 
-### What is a Backup?
-A backup is a copy of important data stored in another location so it can be restored if the original data is lost or damaged.
+Then summarize:
+- What I learned from Cisco.
+- Important cybersecurity concepts.
+- Practical skills gained.
 
-### Types of Backup
-- Full Backup
-- Incremental Backup
-- Differential Backup
-
-### 3-2-1 Backup Rule
-- Keep 3 copies of data.
-- Store them on 2 different storage media.
-- Keep 1 copy off-site (Cloud).
-
----
-
-## Topic 3: Data Recovery
-
-### What is Data Recovery?
-Data recovery is the process of restoring lost, deleted, corrupted, or damaged data.
-
-### Difference
-
-Backup = Create a copy before disaster.
-
-Recovery = Restore the copy after disaster.
-
----
-
-## Real-world Example
-
-A ransomware attack encrypts a company's files.
-
-The cybersecurity team:
-1. Isolates infected systems.
-2. Removes malware.
-3. Restores clean backups.
-4. Verifies the restored data.
-5. Resumes business operations.
-
----
-
-## What I Learned Today
-
-- Data maintenance protects information.
-- Backups reduce damage after cyberattacks.
-- Recovery restores data after incidents.
-- The 3-2-1 backup rule is an industry best practice.
+## Reflection
+Write a 4–6 line reflection covering:
+- What I learned today.
+- The most valuable concept.
+- How today's lesson will help me become a cybersecurity professional.
+- One thing I should remember in the future.
