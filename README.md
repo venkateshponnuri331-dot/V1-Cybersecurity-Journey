@@ -163,7 +163,6 @@ Completed Module 3.1 - Protecting Your Devices and Network.
 ## Reflection
 
 Today I learned how devices communicate on the Internet and why DNS and IP are essential for networking.
-Day-8-Data-Maintenance-Backup-Recovery.md
 # V1 Cybersecurity Bootcamp – Day 8
 
 ## Topic 1: Data Maintenance
