@@ -200,3 +200,42 @@ Write a 4–6 line reflection covering:
 - The most valuable concept.
 - How today's lesson will help me become a cybersecurity professional.
 - One thing I should remember in the future.
+# Day 9 - Network Security Fundamentals
+
+## What I Learned
+
+- Network security protects networks, devices, services, connections, and data from unauthorized access and attacks.
+- An IP address identifies a device or network destination.
+- A port identifies a specific service or communication endpoint.
+- Port 443 is commonly used by HTTPS.
+- A firewall monitors and controls network traffic based on security rules.
+- Port scanning checks which ports or services are open or accessible.
+- Phishing is a social-engineering attack that tricks people into unsafe actions.
+
+## Real-Life Scenario
+
+When I access a secure website, my device communicates with the website's server using an IP address and a specific port.
+
+For example, HTTPS commonly uses port 443. A firewall can control whether network traffic is allowed or blocked.
+
+## Cisco Skills for All
+
+Completed and studied Module 3 - Protecting Your Data and Privacy.
+
+Completed:
+
+- 3.1 Protecting Your Devices and Network - 9/9
+- 3.2 Data Maintenance - 5/5
+- 3.3 Who Owns Your Data? - 7/7
+- 3.4 Safeguarding Your Online Privacy - 5/5
+- 3.5 Discover Your Own Risky Online Behavior - 6/6
+
+The 3.6 Quiz was attempted and scored 50%, so it is not marked as passed.
+
+## Reflection
+
+Today I learned how network security protects devices and communication.
+
+I understood the difference between an IP address and a port, and I learned how firewalls, port scanning, and phishing relate to cybersecurity.
+
+This helped me understand how cybersecurity professionals identify and protect network services.
