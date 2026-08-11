@@ -239,3 +239,120 @@ Today I learned how network security protects devices and communication.
 I understood the difference between an IP address and a port, and I learned how firewalls, port scanning, and phishing relate to cybersecurity.
 
 This helped me understand how cybersecurity professionals identify and protect network services.
+# 🛡️ Day 10 — DNS & Firewall Fundamentals
+
+## 🧠 What I Learned
+
+Today I learned the fundamentals of DNS and firewalls as part of my cybersecurity learning journey.
+
+### 🌐 DNS
+
+- DNS stands for Domain Name System.
+- DNS works like a phone book for the Internet.
+- It helps translate domain names into IP addresses.
+- A DNS resolver performs DNS lookups and helps return the required DNS information.
+- I learned about important DNS records:
+  - A — IPv4 address
+  - AAAA — IPv6 address
+  - CNAME — domain alias
+  - MX — mail server
+  - NS — authoritative name server
+  - TXT — text/verification information
+- I learned that DNS can also be abused by attackers.
+
+### 🔐 DNS Security
+
+I learned three important DNS-related threats:
+
+- DNS spoofing — providing a fake DNS answer.
+- DNS cache poisoning — placing a malicious/fake DNS answer into a DNS cache.
+- DNS tunneling — abusing DNS traffic to carry hidden data or communication.
+
+### 🔥 Firewall
+
+I learned that a firewall acts as a security gate for network traffic.
+
+A firewall can make decisions using information such as:
+
+- Source IP address
+- Destination IP address
+- Port
+- Protocol
+- Connection state, depending on the firewall type
+
+Example:
+
+- Port 443 → commonly HTTPS
+- Port 23 → traditionally Telnet
+
+A firewall can allow legitimate traffic and block unauthorized or suspicious traffic according to its security rules.
+
+---
+
+## 🌍 Real-Life Scenario
+
+Imagine a company hosts a public website.
+
+The company needs HTTPS access so customers can visit the website.
+
+The security team may:
+
+- Allow required HTTPS traffic through port 443.
+- Restrict administrative services such as SSH.
+- Block unnecessary services.
+- Monitor suspicious connections.
+- Review firewall logs.
+- Regularly patch and securely configure the server.
+
+The important lesson I learned is that security controls should not be applied blindly. A security analyst should understand the business requirement, assess the risk, and then make a security decision.
+
+---
+
+## 💻 Cisco Skills for All
+
+Today I connected my Cisco Skills for All networking/cybersecurity learning with practical DNS and firewall concepts.
+
+I learned how:
+
+- DNS helps devices resolve domain names.
+- IP addresses identify network destinations.
+- Ports identify services.
+- Firewalls control network traffic.
+- DNS and firewall concepts are important parts of network security.
+
+This helped me connect networking fundamentals with real cybersecurity situations.
+
+---
+
+## 🪞 Reflection
+
+Today I improved my understanding of how devices communicate across networks.
+
+Before this lesson, I understood DNS mainly as something that converts a domain name into an IP address. Today I understood the process more deeply and learned about DNS records and DNS-related attacks.
+
+I also learned that a firewall is not simply a wall. It is a security control that evaluates network traffic and applies rules to allow or block communication.
+
+The biggest lesson for me today was:
+
+> DNS helps identify where communication should go, while a firewall helps control whether the communication should be allowed.
+
+I need to continue improving my networking knowledge because networking is an important foundation for cybersecurity.
+
+---
+
+## 🎯 Key Takeaways
+
+```text
+Domain
+   ↓
+DNS
+   ↓
+IP Address
+   ↓
+Port
+   ↓
+Service
+   ↓
+Firewall
+   ↓
+ALLOW / BLOCK
