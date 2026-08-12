@@ -356,3 +356,51 @@ Service
 Firewall
    ↓
 ALLOW / BLOCK
+Create my V1 Cybersecurity Bootcamp — Day 11 GitHub documentation.
+
+Topic: Port Scanning and Network Reconnaissance.
+
+Use only what I actually learned today. Include only the most important and valuable information.
+
+Use this structure:
+
+# V1 Cybersecurity Bootcamp — Day 11
+
+## Topic
+Port Scanning and Network Reconnaissance
+
+## What I Learned
+Explain the most important concepts I learned today:
+- Port scanning
+- Open, closed, and filtered ports
+- TCP scanning and the TCP three-way handshake
+- UDP scanning
+- Network reconnaissance
+- Attack surface
+- How defenders identify suspicious scanning
+
+## Real-Life Scenario
+Give one realistic cybersecurity/SOC scenario showing how this knowledge is used.
+
+## Cisco Skills for All
+Summarize what I learned or completed today through Cisco Skills for All and connect it to today's cybersecurity topic.
+
+## Reflection
+Write a short, natural first-person reflection explaining:
+- What I understood today
+- What became clearer
+- What I found difficult
+- Why today's knowledge matters for cybersecurity
+- What I should improve next
+
+## Key Takeaway
+Give only the 3–5 most important lessons from today.
+
+Rules:
+- Clean professional Markdown.
+- Beginner-friendly but technically accurate.
+- Keep it concise.
+- Use only today's learning.
+- Do not invent anything.
+- Do not add unnecessary sections.
+- Keep the same style for every future V1 GitHub day.
