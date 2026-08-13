@@ -521,3 +521,203 @@ Do not claim anything is complete unless I actually completed it.
 
 Make the final result clean professional Markdown with relevant cybersecurity stickers/emojis.
 
+Create my V1 Cybersecurity Bootcamp — Day 12 GitHub documentation.
+
+Today's Phase 1 topic:
+🔥 Firewalls
+
+Today's Cisco Skills for All progress:
+
+Module 4 — Protecting the Organization
+
+4.1 Cybersecurity Devices and Technologies — 10/10 COMPLETE
+4.2 Behavior Approach to Cybersecurity — 6/6 COMPLETE
+4.3 Cisco's Approach to Cybersecurity — 2/5 PENDING
+4.4 Quiz — NOT STARTED
+
+Create a clean, professional Markdown document matching the detailed style of my Day 10 GitHub documentation.
+
+Use relevant cybersecurity stickers/emojis in section headings.
+
+Examples:
+🛡️ 🧠 🔥 🌐 🔐 🚨 💻 🪞 🎯 📊
+
+IMPORTANT:
+- Use only what I actually learned today.
+- Do not invent activities or experiences.
+- Do not claim Cisco 4.3 is complete.
+- Do not claim the quiz is complete.
+- Do not make the documentation too short.
+- Do not add unnecessary theory.
+- Make it detailed enough for my cybersecurity portfolio.
+- Keep it beginner-friendly but technically accurate.
+- Keep the same professional style as Day 10.
+
+# 🛡️ V1 Cybersecurity Bootcamp — Day 12
+
+Today's Topic:
+🔥 Firewall Fundamentals
+
+# 🧠 What I Learned
+
+Explain the most important firewall concepts I learned today.
+
+Cover:
+
+- What a firewall is
+- Why firewalls are important
+- Firewall rules
+- Allow and block decisions
+- Inbound traffic
+- Outbound traffic
+- Source IP address
+- Destination IP address
+- Ports
+- Network services
+- Stateless firewall
+- Stateful firewall
+- Firewall logging
+- Firewall limitations
+- Defense-in-depth
+- Relationship between firewalls and port scanning
+- Why an allowed port does not automatically mean traffic is safe
+
+Explain the concepts clearly and technically accurately.
+
+Include this simple security flow:
+
+Domain
+↓
+DNS
+↓
+IP Address
+↓
+Port
+↓
+Service
+↓
+🔥 Firewall
+↓
+ALLOW / BLOCK
+↓
+Monitoring / Investigation
+
+Also explain:
+
+Stateless Firewall
+→ Checks packets individually without maintaining connection state.
+
+Stateful Firewall
+→ Tracks connection state and understands established connections.
+
+# 🔥 Firewall Security
+
+Explain how firewall rules can control traffic based on factors such as:
+
+- Source
+- Destination
+- Port
+- Protocol
+- Allow / block decision
+
+Explain why poorly configured firewall rules can create security risks.
+
+# 🚨 Real-Life Scenario
+
+Give ONE realistic cybersecurity scenario involving a company.
+
+The company has:
+
+- A public web server
+- An internal database
+- Employee computers
+- A firewall
+
+Explain:
+
+- The network situation
+- What traffic should normally be allowed
+- What traffic should be restricted
+- How the firewall protects the organization
+- Inbound traffic
+- Outbound traffic
+- How suspicious traffic could be investigated
+- How firewall logs help the security team
+- Why the internal database should not be unnecessarily exposed to the Internet
+
+Do not invent a specific company or fake security incident.
+
+# 💻 Cisco Skills for All
+
+Document my actual Cisco progress today.
+
+## Module 4 — Protecting the Organization
+
+🟢 4.1 Cybersecurity Devices and Technologies — 10/10 COMPLETE
+
+🟢 4.2 Behavior Approach to Cybersecurity — 6/6 COMPLETE
+
+🟡 4.3 Cisco's Approach to Cybersecurity — 2/5 PENDING
+
+⚪ 4.4 Quiz — NOT STARTED
+
+Explain briefly what I gained from today's Cisco learning.
+
+Connect the Cisco learning with today's firewall theory where appropriate.
+
+Do not claim 4.3 or 4.4 is complete.
+
+# 🪞 Reflection
+
+Write a natural first-person reflection.
+
+Answer:
+
+- What did I learn about firewalls?
+- What became clearer?
+- What did I find difficult?
+- How did my understanding improve?
+- Why are inbound and outbound traffic important?
+- Why are firewall logs useful?
+- What did I understand about stateful and stateless firewalls?
+- How does firewall knowledge help a cybersecurity professional?
+- What should I improve next?
+
+Make the reflection realistic and professional.
+
+# 🎯 Key Takeaway
+
+Give only 3–5 of the most important lessons.
+
+Focus on:
+
+- Firewall rules
+- Inbound and outbound traffic
+- Stateful vs stateless firewalls
+- Firewall logging
+- Defense-in-depth
+- Security monitoring
+
+# 📊 V1 Progress
+
+Day: 12
+
+Phase 1 — Firewall Theory: COMPLETE
+
+Phase 2 — Cisco Skills for All:
+
+4.1 — COMPLETE
+4.2 — COMPLETE
+4.3 — PENDING
+4.4 — PENDING
+
+Phase 3 — GitHub Documentation: COMPLETE
+
+Phase 4 — Chanakya Strategic Challenge: COMPLETE
+
+Final output must be clean professional Markdown suitable for my V1 cybersecurity GitHub portfolio.
+
+Use relevant cybersecurity stickers/emojis.
+Keep the documentation detailed like Day 10.
+Do not make it unnecessarily long.
+Do not invent anything I did not learn or complete.
