@@ -357,7 +357,8 @@ Firewall
    ↓
 ALLOW / BLOCK
 
-Create my V1 Cybersecurity Bootcamp — Day 11 GitHub documentation.
+
+         Create my V1 Cybersecurity Bootcamp — Day 11 GitHub documentation.
 
 Today's topic:
 Port Scanning and Network Reconnaissance.
@@ -400,6 +401,7 @@ Rules:
 - Do not invent topics or activities.
 - Do not add unnecessary sections.
 - Keep the same style as my previous V1 GitHub days.
+
 Create my V1 Cybersecurity Bootcamp — Day 12 GitHub documentation.
 
 Today's Phase 1 topic:
